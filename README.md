@@ -73,7 +73,14 @@ Já o Flood Fill utiliza uma matriz de custos para garantir a convergência para
   
 **Kauan Victor** • **João Lucas** • **Elbert Melo**
 **Vicente Souza** • **Caio Magalhães** • **Enzo Esmeraldo**
+</div>
 
+<div align="center">
+
+---
+**⚠️ Nota sobre o Histórico de Versão:
+Para garantir a integridade da entrega final e a separação correta entre os módulos de Simulação (Python) e Firmware (C++), o repositório passou por uma **refatoração estrutural completa** no dia [04/12].
+Durante esse processo de organização de pastas (`git mv` e reestruturação de diretórios), o histórico de commits anterior foi unificado para manter a árvore do projeto limpa. Todos os membros da equipe participaram ativamente do desenvolvimento das etapas anteriores à esta organização, e continuaram o desenvolvimento do projeto ate sua ultima alteração.**
 </div>
 
 ---
